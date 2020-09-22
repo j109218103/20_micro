@@ -32,5 +32,5 @@
 
 [![APPLE](https://img.youtube.com/vi/b13xnFp_LJs/0.jpg "00")](https://www.youtube.com/watch?v=b13xnFp_LJs "APPLE發布")
 
-:SUNNY:
-:+1:
+ 
+ :+1:
