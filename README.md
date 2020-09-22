@@ -12,11 +12,12 @@
 >>大寮區
 
 
-*RED
+* RED
 
-*BLUE
+* BLUE
 
-*GREEN
+* GREEN
 
 ---
-[GOOGLE] (https://www.google.com.tw/)
+
+[GOOGLE](https://google.com)
